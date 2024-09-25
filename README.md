@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## About me:
+- Age 19
+- Name Gian Luca
+- 
+
+- 🔭 I’m currently working on a school project, BWINF 43 Round 1
+- 🌱 I’m currently learning python(for projects) and java(for school)
+- 
+
 ## GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zkitkato&theme=tokyonight&hide_border=false)<br/>
