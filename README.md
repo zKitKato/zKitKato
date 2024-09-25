@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![zKitKato GitHub stats](https://github-readme-stats.vercel.app/api?username=zkitkato&show_icons=true&theme=dark)
+
 <!--
 **zKitKato/zKitKato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
