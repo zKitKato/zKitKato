@@ -15,7 +15,7 @@
 
 ![zKitKato GitHub stats](https://github-readme-stats.vercel.app/api?username=zkitkato&show_icons=true&theme=dark)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zkitkato&theme=tokyonight&layout=compact&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zkitkato&theme=tokyonight&layout=compact&hide_border=false&include_all_commits=true&countprivate=true)
 
 <!--
 **zKitKato/zKitKato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
