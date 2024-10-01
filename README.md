@@ -5,7 +5,7 @@
 - Name Gian Luca
 
 
- 🔭 I’m currently working on a school project, BWINF 43 Round 1 <br/>
+ 🔭 I’m currently working on a school project in pyhton for data migration, BWINF 43 Round 1 <br/>
  🌱 I’m currently learning python(for projects) and java(for school)
 
 
