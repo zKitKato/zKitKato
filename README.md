@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ## About me:
-- Age 19
+- Age 20
 - Name Gian Luca
 
 
- 🔭 I’m currently working on a school project in pyhton for data migration, BWINF 43 Round 1 <br/>
+ 🔭  <br/>
  🌱 I’m currently learning python(for projects) and java(for school)
 
 
